@@ -1,0 +1,2 @@
+# Freemarker
+Doc simplificada Freemarker
